@@ -10,9 +10,9 @@ This project was inspired by a conversation with the CEO of a life-sciences comp
   
 * Regression model - Jupyter Notebooks (Python notebook available [here.](https://github.com/LuMaJe/Capstone-Project/blob/main/Linear%20Regression.ipynb) )
   
-* Data Visualization - Dashboard created in Looker Studio (Dashboard available [here](https://lookerstudio.google.com/reporting/baa2b5b6-02cd-4d18-b77c-8ca0def4ac65) )
+* Data Visualization - Dashboard created in Looker Studio (Dashboard available [here](https://lookerstudio.google.com/reporting/f2c52047-cbc5-4434-a196-1806aac77dbd) )
   
-* Executive Report - Google Sheets document detailing the full analysis (available [here](https://docs.google.com/document/d/1rooEZRaKU_sChj64LyKCyFJB6Yj1hl2n8AsDr7uU8Gg/edit?usp=sharing) )
+* Executive Report - Google Sheets document detailing the full analysis (available [here](https://docs.google.com/document/d/1xpuvG_GD15BuiaSIiabOqaPDJRFKKSung6jE8aLHSyA/edit?usp=sharing) )
 
 ### Analysis techniques
 * Linear regression modelling (Python)
