@@ -3,7 +3,7 @@
 ## Project Description
 
 ### Overview
-This project was inspired by a conversation with the CEO of a life-sciences company and replicated an analysis that would have been undertaken to solve the real-world problem. The project consists of 3 main parts, representing 3 unique problems for the company. This project involves modelling the impact of academic publications in order to strategise the companys publication output. Next, segmenting publicly available datasets  in order to improve their current machine learning capabilities. Finally, providing a FTO analysis regarding legal patents to ensure the avoidance of potential legal roadblocks.
+This project was inspired by a conversation with the CEO of a life-sciences company and replicated an analysis that would have been undertaken to solve the real-world problem. The project consists of 3 main parts, representing 3 unique problems for the company. This project involves modelling the impact of academic publications in order to strategise the companys publication output. Next, segmenting publicly available datasets  in order to improve their current machine learning capabilities. Finally, providing a Freedom-To-Operate analysis regarding legal patents to ensure the avoidance of potential legal roadblocks.
 
 ### Project contents
 * Data retrieval/analysis - SQL utilising Google BigQuery (see SQL queries in this repo)
